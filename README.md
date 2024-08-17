@@ -28,7 +28,7 @@ Sou um amante da natureza e da tecnologia, nos meus tempos livres gosto de assis
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raonidcunha/)
 
   ### 🔭 O que me motiva
-     Eu estou sempre em busca de desafios e oportunidades onde eu possa colocar em prática os meus conhecimentos e também sempre aprender mais.
+  Eu estou sempre em busca de desafios e oportunidades onde eu possa colocar em prática os meus conhecimentos e também sempre aprender mais.
 
   ### Informações Adicionais
   
