@@ -4,9 +4,8 @@ Meu Nome é Raoni e atualmente sou estudante de Análise e desenvolvimento de si
 
 Sou um amante da natureza e da tecnologia, nos meus tempos livres gosto de assistir série, jogar rpg e de práticar trilha com bicicleta.
 
-- 🌱 Tecnologias que estudo:
 
-### Linguagens de Programação:
+### 🌱  Linguagens de Programação que estudo:
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
   
@@ -25,9 +24,10 @@ Sou um amante da natureza e da tecnologia, nos meus tempos livres gosto de assis
   [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
- 
-- 📫 Contato: 
+ ### 📫 Contato: 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/user)
+
+  ### O que me motiva
 - 🔭 Eu estou sempre em busca de desafios e oportunidades onde eu possa colocar em prática os meus conhecimentos e também sempre aprender mais.
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drakkar95)](https://github.com/drakkar95/github-readme-stats)
