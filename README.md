@@ -1,6 +1,6 @@
-## Hi there 👋
+## Olá, Seja bem vindo(a) 👋
 
-Olá, Meu Nome é Raoni e atualmente sou estudante de Análise e desenvolvimento de sistemas.
+Meu Nome é Raoni e atualmente sou estudante de Análise e desenvolvimento de sistemas.
 
 Sou um amante da natureza e da tecnologia, nos meus tempos livres gosto de assistir série, jogar rpg e de práticar trilha com bicicleta.
 
