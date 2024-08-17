@@ -25,7 +25,7 @@ Sou um amante da natureza e da tecnologia, nos meus tempos livres gosto de assis
   [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
  ### 📫 Contato: 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/user)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raonidcunha/)
 
   ### O que me motiva
 - 🔭 Eu estou sempre em busca de desafios e oportunidades onde eu possa colocar em prática os meus conhecimentos e também sempre aprender mais.
