@@ -11,4 +11,6 @@ Sou um amante da natureza e da tecnologia, nos meus tempos livres gosto de assis
 - 📫 Contato: 
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drakkar95)](https://github.com/drakkar95/github-readme-stats)
+<div>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drakkar95)](https://github.com/drakkar95/github-readme-stats)
+</div>
