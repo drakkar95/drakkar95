@@ -8,7 +8,7 @@ Sou um amante da natureza e da tecnologia, nos meus tempos livres gosto de assis
 - 🌱 Tecnologias que estudo: 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about : 
-- 📫 Contato: 
+- 📫 Contato:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/user)
 - ⚡ Fun fact: ...
 -->
   
